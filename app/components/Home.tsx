@@ -11,7 +11,7 @@ const HomeSection = () => {
       <div className="container mx-auto flex flex-col md:flex-row items-center">
         <div className="text-center md:text-left md:w-1/2">
           <h1 className="text-5xl font-bold leading-tight">
-            Hi, I'm <span className="text-[#F39C12]">Ausaf Ahmed</span>
+            Hi, Im <span className="text-[#F39C12]">Ausaf Ahmed</span>
           </h1>
           <p className="mt-4 text-lg text-gray-200">
             I am a passionate frontend developer specialized in building
